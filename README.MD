@@ -33,5 +33,5 @@ You can type on this keyboard by simply pointing and tapping with your fingers i
 
 2.) Run the project:
 ```
-    python volumehandcontrol.py
+    python main.py
 
