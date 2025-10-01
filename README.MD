@@ -29,3 +29,9 @@ You can type on this keyboard by simply pointing and tapping with your fingers i
    ```bash
    git clone https://github.com/kunwardhruv/Virtual-Keyboard.git
    cd Virtual-Keyboard
+
+
+2.) Run the project:
+```
+    python volumehandcontrol.py
+
